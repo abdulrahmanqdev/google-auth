@@ -5,11 +5,7 @@ import { useRouter } from "next/navigation";
 export default function Home() {
   const { data: session } = useSession();
   const router = useRouter();
- //slow3rxq tarafından yapıldı daha fazla böyle altyapılar için discord.gg/DRCE9wCn4K sunucumuza gelebilirsiniz.
- //slow3rxq tarafından yapıldı daha fazla böyle altyapılar için discord.gg/DRCE9wCn4K sunucumuza gelebilirsiniz.
- //slow3rxq tarafından yapıldı daha fazla böyle altyapılar için discord.gg/DRCE9wCn4K sunucumuza gelebilirsiniz.
- //slow3rxq tarafından yapıldı daha fazla böyle altyapılar için discord.gg/DRCE9wCn4K sunucumuza gelebilirsiniz.
- //slow3rxq tarafından yapıldı daha fazla böyle altyapılar için discord.gg/DRCE9wCn4K sunucumuza gelebilirsiniz.
+
   return (
     <div className="flex items-center justify-center min-h-screen bg-white/10">
       <div className="p-8 bg-white/10  rounded-2xl shadow-xl text-center">
